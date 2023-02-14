@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "com.phonegap.framework7.base",
+  "short_name": "com.phonegap.framework7.base",
+  "version": "org.devgirl.framework7.mediaexplorer",
+  "description": "A basic Framework7 template for PhoneGap.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#2196f3"
+}
